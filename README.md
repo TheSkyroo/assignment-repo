@@ -117,8 +117,7 @@ Full product view accessible by clicking any card or navigating directly:
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
-cd food-explorer
+git clone https://github.com/TheSkyroo/assignment-repo
 
 # 2. Install dependencies
 npm install
